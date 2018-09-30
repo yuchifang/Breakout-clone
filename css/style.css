@@ -10,7 +10,7 @@
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
-  background: #eee;
+  background: rgb(255, 241, 159);
   display: block;
   margin: 0 auto; }
 
