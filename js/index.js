@@ -203,8 +203,8 @@ function draw(){
   //x+半徑> 板子左邊    x小於  板子左邊+寬度+半徑
   //高度y加上球的變化量dy 大於 canvas.height高度 480 減掉 球的半徑減 板子高度 及厚度(板子上面)
   //canvas.height高度 480 - 20
-  dy+=0.5;
-  dx+=0.5;
+  dy+=1;
+  dx+=1;
    dy = -dy;
    cnum3="rgb("+Math.floor(Math.random()*180)+","+Math.floor(Math.random()*180)+","+Math.floor(Math.random()*180)+")" ;  
  }else if(y + dy > canvas.height-ballRadius){  
