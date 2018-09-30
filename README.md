@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Breakout clone 
 
 You can use the [editor on GitHub](https://github.com/yuchifang/Breakout-clone/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
